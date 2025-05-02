@@ -1,5 +1,5 @@
 # Define the README content
-readme_content = """# 📱 Simple Sign In & Sign Up UI - Android Studio
+Simple Sign In & Sign Up UI - Android Studio
 
 Proyek Android Studio ini menyediakan tampilan antarmuka pengguna (UI) sederhana untuk halaman **Sign In** dan **Sign Up**, cocok untuk keperluan pembelajaran atau sebagai template awal aplikasi Android.
 
